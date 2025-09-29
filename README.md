@@ -1,1 +1,2 @@
-# RandomNumber_Assignment
+# Random Number Game assignment
+## Using Python
